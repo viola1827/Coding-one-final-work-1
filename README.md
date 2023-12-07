@@ -1,8 +1,11 @@
 # Coding-one-final-work-1
 
 //////////////////////////////////////////////////
+
                   Spiral Galaxy                
+
 //////////////////////////////////////////////////
+
  Galaxy net art, this one is an unexpected shape of spiral galaxy,                            
  Another is an 3D normal rotation: https://mimicproject.com/code/14992f28-d412-5496-9f32-6540a8dc6bdf  
 
