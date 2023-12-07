@@ -30,12 +30,13 @@
                                                
  Use Chatgpt and other AI tools:               
      Check for spelling issues.                   
-     Modify the problem of 3D rotation failure( => [7] ) 
+     Modify the problem of 3D rotation failure( => [7] )     
      Explain the core principles of online coding   
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 Project Description:
+
 In this project, I embarked on creating a net art piece that portrays a dynamic, glowing Spiral Galaxy using p5.js. The journey of crafting this artwork involved several key steps, blending coding with galaxy pattern.
 
 Creating the Basic Shape: 
