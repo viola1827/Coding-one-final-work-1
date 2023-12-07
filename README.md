@@ -1,8 +1,35 @@
 # Coding-one-final-work-1
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                                                Spiral Galaxy                
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ Galaxy net art, this one is an unexpected shape of spiral galaxy,                            
+ Another is an 3D normal rotation: https://mimicproject.com/code/14992f28-d412-5496-9f32-6540a8dc6bdf  
 
-
---------------------------------------------------------Spiral Galaxy---------------------------------------------------
+ Controls:                                  
+     'Move the mouse to change the rotation angle of the spiral galaxy arms'                     
+                                            
+ Written by Zijing Wang (23005696)          
+     [z.wang0620233@arts.ac.uk]             
+                                            
+ ------------ resources ---------------     
+ Original galaxy code and inspiration:      
+     https://universe.nasa.gov/galaxies/types/ ->(pattern)                                    
+     https://www.youtube.com/watch?v=e_S6YTchKdA&t=38s ->(basic structure => [2])                   
+     https://openprocessing.org/sketch/1811838 ->(rotate_2 => [3])   
+                                              
+ Original meteors code from:
+     https://openprocessing.org/sketch/1956608 ->(meteors_1 => [4])   
+     https://shimo.im/docs/Pq3TRQcp8wdh9Cqh/read -> (meteors_2 => [failed])
+                                               
+ Galaxy color, blendmode and nebula code from: 
+     https://mimicproject.com/code/b3dfcfae-aff7-8dc3-92bc-8fcc02577142(week6 work => [6])  
+                                               
+ Use Chatgpt and other AI tools:               
+     Check for spelling issues.                   
+     Modify the problem of 3D rotation failure( => [7] ) 
+     Explain the core principles of online coding   
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 Project Description:
@@ -10,14 +37,14 @@ In this project, I embarked on creating a net art piece that portrays a dynamic,
 
 Creating the Basic Shape: 
 The foundation of the galaxy was formed by proportionally enlarging and rotating ellipses. This fundamental structure, inspired by a tutorial here, laid the groundwork for the more complex features to follow.
-Original galaxy code & reference:https://www.youtube.com/watch?v=e_S6YTchKdA&t=38s
+Original galaxy code & reference: https://www.youtube.com/watch?v=e_S6YTchKdA&t=38s
 
 Dynamics of Spiral Galaxy Arms: 
 By studying density wave theory, I achieved a rotation effect in the galaxy arms. To enhance realism, I implemented a gradation in size, diminishing progressively from the center, emulating the vast expanse of a real galaxy.
 
 Enhancing Colors and Details: 
 Utilizing two color arrays, ‘colorsBlue’ and ‘colorsRed’, I infused warm and cool tones into the galaxy arms, adding depth and luminance. Random values within these arrays brought each spiral arm to life, making them appear more abundant and natural.
-Learn from weekly work:https://mimicproject.com/code/b3dfcfae-aff7-8dc3-92bc-8fcc02577142
+Learn from weekly work: https://mimicproject.com/code/b3dfcfae-aff7-8dc3-92bc-8fcc02577142
 
 
 Adding Nebulae & Creating Meteors: 
