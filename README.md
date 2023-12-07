@@ -1,8 +1,10 @@
 # Coding-one-final-work-1
-use to upload coding one final work
 
 
-Spiral Galaxy
+
+--------------------------------------------------------Spiral Galaxy---------------------------------------------------
+
+
 Project Description:
 In this project, I embarked on creating a net art piece that portrays a dynamic, glowing Spiral Galaxy using p5.js. The journey of crafting this artwork involved several key steps, blending coding with galaxy pattern.
 
